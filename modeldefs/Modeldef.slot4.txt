@@ -1,0 +1,11 @@
+Model Rifle
+{
+	Path "Models/Slot4"
+	Model 0 "RIFLA0.obj"
+	Skin 0 "RIFLA0.pal.png"
+	ANGLEOFFSET 90
+	//ROTATING
+	//Rotation-speed 5
+	
+	Frameindex RIFL A 0 0
+}

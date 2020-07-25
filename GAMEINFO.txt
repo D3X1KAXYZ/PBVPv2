@@ -1,0 +1,3 @@
+STARTUPTITLE = "Project Brutality 3.0"
+STARTUPCOLORS = "760008", "000000"
+NoRandomPlayerClass = True

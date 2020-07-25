@@ -1,0 +1,118 @@
+/*commented lines are not included in this patch.
+all credit for non-commented items below belong
+to there rightful owners.*/
+Ghostpilot:
+
+/*Soulsphere
+Health Potion
+Rocket Projectile
+Bulk Cell
+Box of Shells
+Red Key Card
+Yellow Key Card
+Blue Key Card*/
+_________________
+
+DooMAD:
+
+/*Medkit
+Stimpack*/
+Red Skull Key
+/*Ammo Box
+Small Cells
+BFG
+Plasma Rifle
+Rocket Launcher
+Box of Rockets
+Berzerk Kit*/
+//Barrel USED IN PREVIOUS BUILDS
+Candle
+/*Rocket
+Green Armour
+Blue Armour
+Backpack (started by Ghostpilot)
+Radiation Suit*/
+_________________
+
+Monfriez:
+
+Lamp
+_________________
+
+DooMGoaT:
+
+/*Shotgun
+Super Shotgun*/ 
+_________________
+
+Exl:
+
+//Compiling ZDoom fork
+//Offset correction utility
+/*have no idea what this is but unless its
+slab6, magicavoxel, slade 3, gzdoom, or ZDL for Windows 7
+I probably have not used it.*/
+_________________
+
+Scott_AW:
+
+//Strip2Voxel utility
+_________________
+
+ReaperMan:
+
+/*Chainsaw*/
+Computer Area Map
+_________________
+
+4mer:
+Fixed Candle
+//Rocket Projectile
+Short Green Marble Column
+Tall Green Marble Column
+Short Red Marble Column
+Tall Red Marble Column
+Short Gas Lamp
+Tall Gas Lamp
+_________________
+
+phi108:
+Electric Column
+//Health Vial
+//Light Amp Goggles
+_________________
+
+Conrad RDW:
+//Chaingun
+TALLSTIK.KVX //Redux by D3X1K AXYZ PLEASE GIVE CREDIT TO BOTH CONRAD RDW AND D3X1K AXYZ IF YOU USE THE TALLSTIK.KVX FROM THIS FILE*/
+Red Torch 
+Green Torch 
+Blue Torch 
+/*END*/
+Candelabra
+_________________
+
+Voxelbro:
+//Armor Bonus
+//Barrel USED IN PREVIOUS BUILDS
+Column
+Skull Keys
+//Combat shotgun
+//Minigun
+//Plasma Rifle Mk.2
+//Rifle
+_________________
+
+zedas:
+Short torch
+Broken lamps
+Column skull
+//Shotgun
+//BD Super Shotgun
+//BD Launcher
+Fire can
+BD burn barrel
+BD kicked barrel
+//UDV HEV suits
+_________________
+

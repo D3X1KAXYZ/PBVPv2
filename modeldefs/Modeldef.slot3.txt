@@ -1,0 +1,11 @@
+Model SSG
+{
+	Path "Models/Slot3"
+	Model 0 "SGN2A0.obj"
+	Skin 0 "SGN2A0.pal.png"
+	ANGLEOFFSET 90
+	//ROTATING
+	//Rotation-speed 5
+	
+	Frameindex SGN2 A 0 0
+}

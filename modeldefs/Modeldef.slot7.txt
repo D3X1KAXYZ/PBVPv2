@@ -1,0 +1,11 @@
+Model FreezerRifle
+{
+	Path "Models/Slot7"
+	Model 0 "FRPKA0.obj"
+	Skin 0 "FRPKA0.pal.png"
+	ANGLEOFFSET 90
+	//ROTATING
+	//Rotation-speed 5
+	
+	Frameindex FRPK A 0 0
+}

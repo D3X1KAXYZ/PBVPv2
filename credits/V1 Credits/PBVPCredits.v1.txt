@@ -1,0 +1,103 @@
+______CREDITS_Updated:_03-23-19__________
+
+------popguy12------<VOXEL DEVELOPER>
+The DemonStrengthRune voxels
+
+------UAC9000------<VOXEL AND MODEL DEVELOPER>
+Most of the gore voxels
+JNK5A 1.0 was created by him
+It has not been included in favor of 2.0
+all md3 convertions
+kvx to obj convertions 
+
+------ST0PxistingN0W-----<MODEL DEVELOPER>
+SENTRY (45° rotation) MODELS (Sadly never used due to issues ingame)
+Traditional BFG Model 
+Any voxels too complicated to make normally 
+	(so many that i have lost track of them)
+Skull Key	
+
+_____Bug testers_______
+P4N_SP4NK
+---Former bug testers---
+TERMiNAL  > busy with real life 
+Player1up > couldnt run later pb3.0 builds
+GOLDEN WAЯЯIOЯ72 > Other
+scaryred24 > Other
+Farscryer > Other
+
+------Dank_Akame_5th----- <FORMER VOXEL DEVELOPER>
+MG42 Voxel
+new menu 2.0// removed from main mod due to compatibility
+
+_____Special Thanks______
+
+---The_Individualist---
+296 kvx to obj convertions (huge help)
+180 convertions redone (due to mv .99.3 .obj export error)
+
+-------Etto-----
+acs debug
+ACS DEBUG and rewrite (no this is not an accident. when adding the gore toggle, 
+	the code would not compile.)
+-----Yamil-----
+GL Definitions
+Suggestions
+
+--Zedek the Plague Doc.--
+Model Animation Mentor
+
+____________________________
+
+Dear Player or Modder,
+
+	Thank you for downloading Project Brutality Voxel Patch and reading the credits.
+If you use any of the files in this patch for your own voxel patches or mods, please give credit to the ones who made them.
+Not everything in these files are original pieces. Some come from BDVP 3-2-1. Some came from the DooM IWads. 
+Others came from PB3.0 / BD. I personally have tried to credit everyone who worked on the things inside this project. 
+If I have left anyone out, I will gladly add them.
+
+I own none of the sprites.
+
+	The decorate files have specific blocks of code that are mine. Much of the code is from BDVP or PB.
+The acs is technically mine, but I have to give some credit to Etto of discord.
+Without him, the Decor toggle script would have taken ten times longer for me to get working properly (if I ever got it working.)
+
+	On a similiar note, a shout out to Zedek the Plague Doc., who helped us with the mech animation. 
+Under his guidence, we were able to make the mech come to life.
+
+I have to give special thanks to the members of the following discord servers:
+	>V5 Add-On (My server)
+	>Project Black Mass (the PB Campaign server) <Originally Project Black Metal when I joined>
+	>The Official PB server
+	>The Official ZDooM server (for help)
+Without them, I would not have any reason to continue this project. 
+The interest they showed in this project gave me a reason to push on. 
+It gave me the resources I needed to bring this idea to life. Its not easy to manage this alone...
+
+Rest In Peace My Sanity XD
+
+	Now, dont get me wrong, there is no way I could have made it this far without my team, but even with them alot of this project fell on my hands since I am the lead developer. 
+being a lead developer of a personal (non commercial, non profit, fan made) project like this
+ can make it feel like you are working alone a lot of times. 
+
+	I also have to thank OSU! (The game), the makers of the beatmaps, and the musicians behind the music used.
+Without the entertainment, I would have definitly lost my mind especially during the mass voxel conversion sessions 
+(one of which lasted four hours as I converted 101 voxels from .vox to .kvx.)
+	
+	On the topic of mass conversions, huge shout out to The_Individualist. 
+He did 296 kvx to obj conversions in one weekend.
+180 of those he actually redid, because of a bug in MV .99.3, in which the obj export function orients the model with the Y axis up.
+This causes the models to come out offcentered and rotated when programmed into gzdoom.
+(Fun fact: there were a total of 427 kvx files in the 032218 dev build.)
+
+	Last, but not least, I have to thank my team, both former and current. 
+As I said, I definitly couldn't have gotten this far on my own.
+
+Hope you enjoy the work that was put in to this.
+															sincerely,
+																D3X1K AXYZ
+																----------
+																Project Manager
+																Lead Developer
+																Voxel developer

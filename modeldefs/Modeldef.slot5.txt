@@ -1,0 +1,11 @@
+Model Excavator
+{
+	Path "Models/Slot5"
+	Model 0 "5DUNA0.obj"
+	Skin 0 "5DUNA0.pal.png"
+	ANGLEOFFSET 90
+	//ROTATING
+	//Rotation-speed 5
+	
+	Frameindex 5DUN A 0 0
+}

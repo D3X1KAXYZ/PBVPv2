@@ -1,0 +1,74 @@
+Model Hell_rifle
+{
+	Path "Models/Slot9"
+	Model 0 "HRPUA0.obj"
+	Skin 0 "HRPUA0.pal.png"
+	ANGLEOFFSET 180
+	//ROTATING
+	//Rotation-speed 5
+	
+	Frameindex HRPU A 0 0
+}
+
+Model TossedHellRifle
+{
+	Path "Models/Slot9"
+	Model 0 "HRPUA0.obj"
+	Skin 0 "HRPUA0.pal.png"
+	ANGLEOFFSET 180
+	//ROTATING
+	//Rotation-speed 5
+	
+	Frameindex HRPU A 0 0
+}
+
+Model TossedHellRifle
+{
+	Path "Models/Slot9"
+	Model 0 "HRPUA0.obj"
+	Skin 0 "HRPUA0.pal.png"
+	PITCHOFFSET 90
+	ANGLEOFFSET 180
+	//ROTATING
+	//Rotation-speed 5
+	
+	Frameindex THR1 A 0 0
+}
+
+Model TossedHellRifle
+{
+	Path "Models/Slot9"
+	Model 0 "HRPUA0.obj"
+	Skin 0 "HRPUA0.pal.png"
+	PITCHOFFSET 180
+	ANGLEOFFSET 180
+	//ROTATING
+	//Rotation-speed 5
+	
+	Frameindex THR1 B 0 0
+}
+
+Model TossedHellRifle
+{
+	Path "Models/Slot9"
+	Model 0 "HRPUA0.obj"
+	Skin 0 "HRPUA0.pal.png"
+	PITCHOFFSET 270
+	ANGLEOFFSET 180
+	//ROTATING
+	//Rotation-speed 5
+	
+	Frameindex THR1 C 0 0
+}
+
+Model Hellgun
+{
+	Path "Models/Slot9"
+	Model 0 "HRPUA0.obj"
+	Skin 0 "HRPUA0.pal.png"
+	ANGLEOFFSET 180
+	//ROTATING
+	//Rotation-speed 5
+	
+	Frameindex HRPU A 0 0
+}

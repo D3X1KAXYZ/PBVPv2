@@ -1,0 +1,32 @@
+______CREDITS_Updated:_5-26-20_______
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+	 -----LEAD DEVELOPER-----
+	 D3X1K AXYZ
+	 
+	 -----VOXEL DEVELOPERS-----
+	 UAC9000
+	 popguy12
+	 Carrot
+	 BaitMasterWebursey
+	 
+	 -----MODEL DEVELOPERS-----
+	 H3LLW4LK3R(ST0PxistingN0W)
+	 UAC9000
+	 
+	 -----BUG TESTERS-----
+	 [FedorableJew] SP4NK
+	 GOLDEN WARRIOR72
+	 Player1up
+	   
+	 -----V1 MEMBERS-----
+	 DooMGuy_5th > VOXEL DEVELOPER
+	 TERMINAL	 > BUG TESTER
+	 scaryred24  > BUG TESTER
+	 Farscryer   > BUG TESTER
+	 
+	 -----SPECIAL THANKS-----
+	 The_Individualist > KVX to OBJ Convertion
+	 Etto > ACS Help
+	 Yamil > GL definitions, resources, and suggestions
+	 Zedek the Plague Doc. > Model Animation Mentor

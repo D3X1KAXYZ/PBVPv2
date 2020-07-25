@@ -1,0 +1,47 @@
+Model BDPistol
+{
+	Path "Models/Slot2"
+	Model 0 "DEGTA0.obj"
+	Skin 0 "DEGTA0.pal.png"
+	ANGLEOFFSET 90
+	//ROTATING
+	//Rotation-speed 5
+	
+	Frameindex DEGT A 0 0
+}
+
+Model Deagle
+{
+	Path "Models/Slot2"
+	Model 0 "D4E0Z0.obj"
+	Skin 0 "D4E0Z0.pal.png"
+	ANGLEOFFSET 90
+	//ROTATING
+	//Rotation-speed 5
+	
+	Frameindex D4E0 Z 0 0
+}
+
+Model CompactSMG
+{
+	Path "Models/Slot2"
+	Model 0 "ATFLA0.obj"
+	Skin 0 "ATFLA0.pal.png"
+	ANGLEOFFSET -90
+	//ROTATING
+	//Rotation-speed 5
+	
+	Frameindex ATFL A 0 0
+}
+
+Model Revolver
+{
+	Path "Models/Slot2"
+	Model 0 "RVICA0.obj"
+	Skin 0 "RVICA0.pal.png"
+	ANGLEOFFSET 90
+	//ROTATING
+	//Rotation-speed 5
+	
+	Frameindex RVIC A 0 0
+}

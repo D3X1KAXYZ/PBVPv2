@@ -22,7 +22,7 @@ Model TossedHellRifle
 	Frameindex HRPU A 0 0
 }
 
-Model TossedHellRifle
+/*Model TossedHellRifle
 {
 	Path "Models/Slot9"
 	Model 0 "HRPUA0.obj"
@@ -59,7 +59,7 @@ Model TossedHellRifle
 	//Rotation-speed 5
 	
 	Frameindex THR1 C 0 0
-}
+}*/
 
 Model Hellgun
 {
